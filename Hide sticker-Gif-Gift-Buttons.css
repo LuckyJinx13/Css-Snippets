@@ -8,3 +8,10 @@ button[aria-label="Open GIF picker"] {
 button[aria-label="Send a gift"] {
     display:none!important;
 } 
+/* New user leaf is now shiggy */
+.newMemberBadge-3PdStX:before {
+    content: url(https://cdn.discordapp.com/emojis/1024751291504791654.gif?size=64&quality=lossless);
+    transform: translate(-100%, -110%);
+    display: inline-block;
+    scale: 0.32;
+}
