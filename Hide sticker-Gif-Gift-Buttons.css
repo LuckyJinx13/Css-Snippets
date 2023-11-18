@@ -1,0 +1,10 @@
+  /* Hide sticker/gif/gift button */
+button[aria-label="Open sticker picker"] {
+    display: none;
+}
+button[aria-label="Open GIF picker"] {
+    display: none;
+}
+button[aria-label="Send a gift"] {
+    display:none!important;
+} 
